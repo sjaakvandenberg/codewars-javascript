@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/for-the-sake-of-argument
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

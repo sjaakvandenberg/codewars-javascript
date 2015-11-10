@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/calculating-with-functions
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

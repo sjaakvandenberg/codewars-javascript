@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/triangle-number-check
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

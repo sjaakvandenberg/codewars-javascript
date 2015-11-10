@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/convert-a-string-to-a-number
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

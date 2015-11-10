@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/summing-a-numbers-digits
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

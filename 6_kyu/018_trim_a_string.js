@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/trim-a-string/train/javascript
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/unary-function-chainer
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

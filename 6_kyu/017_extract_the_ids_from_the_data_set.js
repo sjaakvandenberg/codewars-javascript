@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/extract-the-ids-from-the-data-set
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

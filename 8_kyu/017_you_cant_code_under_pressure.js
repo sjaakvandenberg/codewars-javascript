@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/you-cant-code-under-pressure-number-1
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 function doubleInteger(i) {

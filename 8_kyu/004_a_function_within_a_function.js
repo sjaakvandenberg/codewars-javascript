@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/a-function-within-a-function
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

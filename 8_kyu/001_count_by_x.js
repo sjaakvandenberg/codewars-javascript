@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/count-by-x
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

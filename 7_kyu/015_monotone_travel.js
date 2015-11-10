@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/monotone-travel
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

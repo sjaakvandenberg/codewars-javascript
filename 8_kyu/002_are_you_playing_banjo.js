@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/are-you-playing-banjo
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

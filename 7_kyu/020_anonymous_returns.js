@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/anonymous_returns
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 name = 'The Window';

@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/is-it-even
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

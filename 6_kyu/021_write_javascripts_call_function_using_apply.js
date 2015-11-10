@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/write-javascripts-call-function-using-apply
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

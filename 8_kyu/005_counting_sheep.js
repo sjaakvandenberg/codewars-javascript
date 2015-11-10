@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/counting-sheep-dot-dot-dot
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

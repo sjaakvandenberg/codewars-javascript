@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/palindrome-for-your-dome
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/moving-zeros-to-the-end
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

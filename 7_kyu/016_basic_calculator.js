@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/basic-calculator
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

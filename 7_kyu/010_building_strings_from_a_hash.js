@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/building-strings-from-a-hash
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

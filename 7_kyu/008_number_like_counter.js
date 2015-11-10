@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/number-like-counter
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

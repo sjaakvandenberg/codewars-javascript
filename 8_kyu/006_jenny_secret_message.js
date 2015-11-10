@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/jennys-secret-message
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**

@@ -3,7 +3,7 @@
  * http://www.codewars.com/kata/convert-number-to-reversed-array-of-digits
  *
  * Sjaak van den Berg
- * @svdb
+ * https://www.twitter.com/svdb
  */
 
 /**
